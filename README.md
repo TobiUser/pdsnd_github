@@ -16,4 +16,5 @@ washington.csv - bikeshare data from Washington
 new-york-city.csv - bikeshare data from New York City
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+The used data was privided by Motivate, a bike share system provider for many major cities in the United States.
+The programm was written as part of the Udacity  Nano Degree 'Programming for Data Science'.
