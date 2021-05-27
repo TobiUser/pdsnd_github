@@ -10,7 +10,10 @@ Explore Bike Share Data
 This python programm calculates statistics about the system usage of a the bikeshare privider Motivate in three cities: Chicago, New York City, and Washington, DC.
 
 ### Files used
-Include the files used
+bikeshare.py - contains the python code of the bikeshare Project
+chicago.csv - bikeshare data from Chicago
+washington.csv - bikeshare data from Washington
+new-york-city.csv - bikeshare data from New York City
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
