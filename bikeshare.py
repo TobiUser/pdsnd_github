@@ -133,7 +133,7 @@ def station_stats(df):
     trip_station_max = df['trip_station'].mode()[0]
     print('The most frequent combination of start station and end station is',trip_station_max,'with a count of',trip_station_count,'.' )
 
-    print("\nThis took %s seconds." % (time.time() - start_time))
+    print("\nThis only took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
 
